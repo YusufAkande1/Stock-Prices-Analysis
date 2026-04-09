@@ -46,3 +46,6 @@ This project demonstrates how data analytics techniques can be applied to financ
 
 ## 🔗 Author
 Yusuf Akande
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f6d67271-4cc0-40d3-b92e-88adbceab6e7" />
